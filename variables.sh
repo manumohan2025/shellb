@@ -23,6 +23,7 @@ echo $INSTANCE_NAME demonstrates variables
 
 DATE=15-04-2021
 echo "Good Morning, Today date is $DATE"
+echo "the project is $INSTANCE_NAME"
 
 # To declare variable content dynamically then we should be using
   # 1. Command Substitution      VAR=$(command)
